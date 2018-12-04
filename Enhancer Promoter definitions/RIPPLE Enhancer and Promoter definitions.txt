@@ -1,0 +1,4 @@
+Enhancer - any genomic region greater than 2500 bp away from a TSS and has at least 1 non-zero feature from the dataset
+Promoter - any genomic region that contains a TSS or is less than 2500 bp away from a TSS and has at least 1 non-zero feature from the dataset
+
+only enhancer promoter pairs less than 1MB apart were consider

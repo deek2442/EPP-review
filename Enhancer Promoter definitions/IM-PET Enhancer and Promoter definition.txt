@@ -1,0 +1,10 @@
+﻿promoters - 2 kbp upstream and 0.5 kbp downstream of a transcription start site annotated in GENCODE
+Enhancers - 2 kbp long predicted by CSI-ANN algorithim with a 5% FDR
+
+enhancer promoter pair selection from ChIA-PET data criteria
+(i) cis interactions with ≥ 5 PET counts  
+(ii) one interacting site contains p300 site but not promoter, and the other interacting site contains promoter but not p300 site; 
+(iii) promoters need to be expressed based on matching RNA-Seq data 
+(IV) overlap with a predicted enhancer
+
+MCF7 and K562 ChIA-PET data was used to generate training data
