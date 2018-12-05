@@ -7,7 +7,7 @@ package transcription.start.site;
 
 /**
  *
- * @author Joan
+ * @author Saadeeq
  */
 public class Enhancer 
 {
