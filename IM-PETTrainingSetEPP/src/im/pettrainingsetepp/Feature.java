@@ -7,7 +7,7 @@ package im.pettrainingsetepp;
 
 /**
  *
- * @author Joan
+ * @author Saadeeq
  */
 public class Feature 
 {
